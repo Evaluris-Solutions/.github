@@ -50,18 +50,6 @@ Lab environments, practice scenarios, and educational content developed for cybe
 
 ---
 
-## 🌍 Global Operations
-
-Evaluris Solutions operates across international markets with headquarters in the United Arab Emirates:
-
-- 🇦🇪 **United Arab Emirates** (Headquarters - FZCO)
-- 🇪🇺 **European Union**
-- 🇺🇸 **United States**
-- 🇨🇦 **Canada**
-- 🇮🇳 **India**
-
----
-
 ## 🏗️ Technology Stack
 
 Our security specialists work with industry-standard tools and cutting-edge technologies:
